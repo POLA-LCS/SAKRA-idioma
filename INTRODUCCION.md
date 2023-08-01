@@ -1,17 +1,17 @@
 # SAKRA : La lengua ficticia.
+**SAKRA** está creada como un *experimento* de fusionar el idioma **Español + Japonés + Inglés**.
 - - -
-### Tiene
+### Caracteristicas.
 - Verbos.
 - Sustantivos.
 - Adjetivos.
 - Adverbios.
-- Pronombres.
-- Preposiciones.
+- Pronombres
+- Preposiciones
 - Conjunciones.
 
-### NO tiene
-- Articulos.
-
+**NO** tiene articulos.
+- - -
 Este idioma utiliza el **Zirpa:ESP** como base de su vocabulario.
 
 Su alfabeto **es el mismo** que el Zirpa:ESP **solo que sus palabras no** siguen al 100%
